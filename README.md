@@ -11,3 +11,5 @@ Em 15 de abril de 1912, durante sua viagem inaugural, o amplamente considerado �
 Embora houvesse algum elemento de sorte envolvido na sobrevivência, parece que alguns grupos de pessoas eram mais propensos a sobreviver do que outros.
 
 Neste desafio, o objetivo é a construção de um modelo preditivo que responda à pergunta: “que tipo de pessoa tem mais probabilidade de sobreviver?” usando dados de passageiros (ou seja, nome, idade, sexo, classe socioeconômica, etc).
+
+Inicialmente, foi realizada uma análise exploratória dos dados e, em seguida, a implementação de um modelo preditivo através de técnicas de machine learning, especificamente a regressão logística.
